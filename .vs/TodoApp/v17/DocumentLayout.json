@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\testresults\\638a7dd8-c628-468d-8062-a69c5313f208\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\testresults\\638a7dd8-c628-468d-8062-a69c5313f208\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\testresults\\f9701084-ca06-4870-91b4-ff1146f297d7\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\testresults\\f9701084-ca06-4870-91b4-ff1146f297d7\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\todoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\todoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\testresults\\d870525b-8a73-4827-8052-916660608ddc\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\testresults\\d870525b-8a73-4827-8052-916660608ddc\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\todoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\todoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\todocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\todocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|solutionrelative:todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.tests\\validatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AEA58A-30F4-4EF5-BAC7-3EB0A2611C7A}|TodoApp.Tests\\TodoApp.Tests.csproj|solutionrelative:todoapp.tests\\validatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.api\\contollers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|solutionrelative:todoapp.api\\contollers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|solutionrelative:todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|solutionrelative:todoapp.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1220A46-DD33-4599-85AA-6CEFA066D6E6}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1220A46-DD33-4599-85AA-6CEFA066D6E6}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1220A46-DD33-4599-85AA-6CEFA066D6E6}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.application\\todoapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1220A46-DD33-4599-85AA-6CEFA066D6E6}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\todoapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC89344-222D-43CE-B3A0-9345FADD6C4F}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.infrastructure\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC89344-222D-43CE-B3A0-9345FADD6C4F}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BDD4D55-91D4-4591-A0D0-D56E642A2D0B}|TodoApp.api\\TodoApp.api.csproj|solutionrelative:todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1220A46-DD33-4599-85AA-6CEFA066D6E6}|TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.application\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1220A46-DD33-4599-85AA-6CEFA066D6E6}|TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:todoapp.application\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A4176-92C3-4EAF-8AEF-03D84D4E8CBF}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\sefyou\\desktop\\todoapp test\\todoapp.domain\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A4176-92C3-4EAF-8AEF-03D84D4E8CBF}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\TodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp.Application\\TodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TestResults\\638a7dd8-c628-468d-8062-a69c5313f208\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TestResults\\638a7dd8-c628-468d-8062-a69c5313f208\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TestResults\\638a7dd8-c628-468d-8062-a69c5313f208\\coverage.cobertura.xml",
+              "RelativeToolTip": "TodoApp.Tests\\TestResults\\638a7dd8-c628-468d-8062-a69c5313f208\\coverage.cobertura.xml",
+              "ViewState": "AgIAADICAAAAAAAAAAAUwFcCAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-06T16:14:37.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TestResults\\f9701084-ca06-4870-91b4-ff1146f297d7\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TestResults\\f9701084-ca06-4870-91b4-ff1146f297d7\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TestResults\\f9701084-ca06-4870-91b4-ff1146f297d7\\coverage.cobertura.xml",
+              "RelativeToolTip": "TodoApp.Tests\\TestResults\\f9701084-ca06-4870-91b4-ff1146f297d7\\coverage.cobertura.xml",
+              "ViewState": "AgIAAJ4DAAAAAAAAAAAUwMMDAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-06T16:13:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TestResults\\d870525b-8a73-4827-8052-916660608ddc\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TestResults\\d870525b-8a73-4827-8052-916660608ddc\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TestResults\\d870525b-8a73-4827-8052-916660608ddc\\coverage.cobertura.xml",
+              "RelativeToolTip": "TodoApp.Tests\\TestResults\\d870525b-8a73-4827-8052-916660608ddc\\coverage.cobertura.xml",
+              "ViewState": "AgIAAJ4DAAAAAAAAAAAUwMMDAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-06T16:08:44.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TodoApp.Tests.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TodoApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TodoApp.Tests.csproj",
+              "RelativeToolTip": "TodoApp.Tests\\TodoApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T15:39:16.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TodoControllerTests.cs",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TodoControllerTests.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TodoControllerTests.cs",
+              "RelativeToolTip": "TodoApp.Tests\\TodoControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:53:53.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\ValidatorTests.cs",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\ValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\ValidatorTests.cs",
+              "RelativeToolTip": "TodoApp.Tests\\ValidatorTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:40:28.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TodoServiceTests.cs",
+              "RelativeDocumentMoniker": "TodoApp.Tests\\TodoServiceTests.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Tests\\TodoServiceTests.cs",
+              "RelativeToolTip": "TodoApp.Tests\\TodoServiceTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:39:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoApp.api.csproj",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\TodoApp.api.csproj",
+              "RelativeDocumentMoniker": "TodoApp.api\\TodoApp.api.csproj",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\TodoApp.api.csproj",
+              "RelativeToolTip": "TodoApp.api\\TodoApp.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T17:12:50.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TodoApp.api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TodoApp.api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:12:50.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "TodoApp.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:12:49.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp.api\\Program.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\Program.cs",
+              "RelativeToolTip": "TodoApp.api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:31:43.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\TodoApp.Application.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Application\\TodoApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\TodoApp.Application.csproj",
+              "RelativeToolTip": "TodoApp.Application\\TodoApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T17:12:48.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApp.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\appsettings.json",
+              "RelativeToolTip": "TodoApp.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-24T17:22:03.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Infrastructure\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Infrastructure\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:06:00.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\Contollers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp.api\\Contollers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.api\\Contollers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp.api\\Contollers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:46:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\TodoService.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\TodoService.cs",
+              "RelativeToolTip": "TodoApp.Application\\TodoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:24:49.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp.Application\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Application\\ITodoService.cs",
+              "RelativeToolTip": "TodoApp.Application\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:04:02.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Domain\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Sefyou\\Desktop\\TodoApp Test\\TodoApp.Domain\\TodoItem.cs",
+              "RelativeToolTip": "TodoApp.Domain\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:58:36.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
