@@ -26,7 +26,7 @@ public class TodoController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<TodoItem>>> GetAll()
     {
-        _logger.LogInformation("Récupération de tous les TodoItems.");
+        _logger.LogInformation("Récupération des probléme.");
         var items = await _todoService.GetAllAsync();
         return Ok(items);
     }
