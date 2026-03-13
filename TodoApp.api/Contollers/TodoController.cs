@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 
 
 namespace TodoApp.api.Controllers;
-[Authorize]
+//[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class TodoController : ControllerBase
@@ -27,7 +27,7 @@ public class TodoController : ControllerBase
     public async Task<ActionResult<IEnumerable<TodoItem>>> GetAll()
     {
 
-        _logger.LogInformation("Récupération des probléme.");
+        _logger.LogInformation("Récupération des probléme , on teste le stash.");
 
         var items = await _todoService.GetAllAsync();
         return Ok(items);

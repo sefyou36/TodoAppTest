@@ -27,7 +27,6 @@ builder.Services.AddDbContext<TodoDbContext>(options =>
 // CHANGEMENT : On passe de Singleton à Scoped car on utilise une base de données
 builder.Services.AddScoped<ITodoService, TodoService>();
 
-var app = builder.Build();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -45,6 +44,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 builder.Services.AddAuthorization();
 
+var app = builder.Build();
+
+
 app.UseMiddleware<ExceptionMiddleware>();
 app.UseAuthentication(); // Qui es-tu ?
 app.UseAuthorization();  // As-tu le droit ?
@@ -58,5 +60,21 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapControllers();
+// --- Ajout pour les migrations automatiques ---
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<TodoDbContext>(); // Remplace par le nom de ton DbContext
+        context.Database.Migrate();
+        Console.WriteLine("Base de données migrée avec succès !");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Erreur lors de la migration : {ex.Message}");
+    }
+}
+// ----------------------------------------------
 
 app.Run();

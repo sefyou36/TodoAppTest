@@ -1,0 +1,31 @@
+services:
+  # Notre API .NET 9
+  todo-api:
+    build: .
+    container_name: todo-api-service
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
+      # On pointe vers le service "db" défini juste en dessous
+      - ConnectionStrings__DefaultConnection=Server=db;Database=TodoDb;User Id=sa;Password=Your_password123;TrustServerCertificate=True
+    depends_on:
+      - db
+
+  # SQL Server pour Linux
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: todo-sql-server
+    user: root
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Your_password123
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+
+volumes:
+  sql_data:
